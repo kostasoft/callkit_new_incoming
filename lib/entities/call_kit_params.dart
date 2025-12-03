@@ -1,6 +1,6 @@
-import '/entities/notification_params.dart';
 import 'package:json_annotation/json_annotation.dart';
 
+import 'notification_params.dart';
 import 'android_params.dart';
 import 'ios_params.dart';
 
